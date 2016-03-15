@@ -1,8 +1,5 @@
 package it.jaschke.alexandria.CameraPreview;
 
-/**
- * Created by GAURAV on 13-03-2016.
- */
 /*
  * Copyright (C) The Android Open Source Project
  *
